@@ -5,9 +5,9 @@ This is part of a bug report for [Element Plus](https://github.com/element-plus/
 To see the implementation of the select box, check the `src/App.vue` file.
 In there the first element is selected using el-select's `navigateOptions('next')` function.
 
-To see the not working example, check the following repository: [Element Plus Issue Non-Working Example #394]().
+To see the working example, check the following repository: [Element Plus Issue Working Example #18239](https://github.com/element-plus/element-plus/issues/18239).
 
-Bug report: [Element Plus Issue #394]()
+Bug report: [Element Plus Issue #18239](https://github.com/element-plus/element-plus/issues/18239)
 
 ### To reproduce the issue, follow the steps below:
 1. Clone this repository.
